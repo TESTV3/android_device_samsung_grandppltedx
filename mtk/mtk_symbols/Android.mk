@@ -2,6 +2,9 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_SRC_FILES := \
+    ssl.c \
+    icu51.c \
+    icu53.c 
     icu55.c \
     mtk_asc.cpp \
     mtk_audio.cpp \
