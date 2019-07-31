@@ -2,8 +2,7 @@
 PRODUCT_RELEASE_NAME := grandppltedx
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
-
+$(call inherit-product, vendor/aosp/common.mk)
 # Inherit device configuration
 $(call inherit-product, device/samsung/grandppltedx/device.mk)
 
@@ -18,7 +17,7 @@ TARGET_BOOTANIMATION_TEXTURE_CACHE := true
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := grandppltedx
-PRODUCT_NAME := lineage_grandppltedx
+PRODUCT_NAME := aosp_G532
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := Galaxy J2 Prime
 PRODUCT_MANUFACTURER := Samsung
