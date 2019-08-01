@@ -1,4 +1,4 @@
-# android_device_samsung_grandppltedx
+# android_device_samsung_grandppltedx Aosp 7.1.2
 grandpplte device tree
 
 -----
@@ -11,4 +11,3 @@ CURRENT BUG:
 [/LIST]
 
 DEVELOPMENT IN PROGRESS. MAY EAT YOUR CAT
-Aosp 7.1.2
