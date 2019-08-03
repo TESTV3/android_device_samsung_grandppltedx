@@ -17,7 +17,7 @@ TARGET_BOOTANIMATION_TEXTURE_CACHE := true
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := grandppltedx
-PRODUCT_NAME := aosp_G532
+PRODUCT_NAME := lineage_grandppltedx
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := Galaxy J2 Prime
 PRODUCT_MANUFACTURER := Samsung
