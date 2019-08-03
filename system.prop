@@ -50,6 +50,10 @@ persist.radio.sib16_support=0
 fmradio.driver.enable=1
 ro.mtk_fm_recording_support=1
 
+# Enable Camera2 API
+persist.camera.HAL3.enabled=1
+
+
 # audio
 ro.camera.sound.forced=0
 ro.audio.silent=0
