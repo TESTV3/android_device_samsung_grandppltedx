@@ -118,6 +118,11 @@ mediatek.wlan.chip=CONSYS_MT6735
 mediatek.wlan.module.postfix=_consys_mt6735
 mediatek.wlan.ctia=0
 
+#WFD Eneble
+wfd.dummy.enable=1
+persist.debug.wfd.enable=1
+
+
 #-
 ro.mtk_bt_support=1
 
